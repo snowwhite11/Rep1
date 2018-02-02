@@ -1,0 +1,6 @@
+{
+  "scripts/test_add_user.py::Test_Add_User::()::test_input_user_info[test_user_001---]": true,
+  "scripts/test_add_user.py::Test_Add_User::()::test_input_user_info[test_user_002-x--x]": true,
+  "scripts/test_add_user.py::Test_Add_User::()::test_input_user_info[test_user_003--1 348-883-4010-1 348-883-4010]": true,
+  "scripts/test_add_user.py::Test_Add_User::()::test_input_user_info[test_user_004-xx-1 348-883-4010-xx]": true
+}
